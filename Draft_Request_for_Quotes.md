@@ -269,7 +269,19 @@ The government's team (CO, COR, and Product Owner) will hold a kickoff meeting (
 
 In accordance with FAR 8.406-7 and FAR 42.1502(c), past performance evaluations shall be prepared at least annually and at the time the work under the order is completed (to include options) when an order, individually, exceeds the simplified acquisition threshold. These evaluations are generally for the entity, division, or unit that performed the contract or order. 
 
-STOPPED HERE
+(1) Evaluating Contractor Performance: The General Services Administration is using the Contractor Performance Assessment Reporting System (CPARS) module as the secure, confidential, information management tool to facilitate the performance evaluation process. CPARS enables a comprehensive evaluation by capturing comments from both TTS and the contractor. The website for CPARS is http://www.cpars.gov Completed CPARS evaluations are sent to the Past Performance Information Retrieval System (PPIRS) which may then be used by Federal acquisition community for use in making source selection decisions. PPIRS assists acquisition officials by serving as the single source for contractor past performance data.
+
+(2) CPARS Registration: Each award requiring an evaluation must be registered in CPARS. The awardee will receive several automated emails. Within thirty days of award, the contractor will receive an email that contains user account information, as well as the applicable contract and order number(s) assigned. The contractor will be granted one user account to access all evaluations.
+
+(3) Contractor CPARS Training: The contractor may sign up for CPARS training. A schedule of classes will be posted to the CPARS training site (http://www.cpars.gov/allapps/cpcbtdlf.htm ) and updated as needed.
+
+(4) Contractor Representative (CR) Role: All evaluations will be sent to the contractor Representative (CR) named on your award. The CR will be able to access CPARS to review and comment on the evaluation. If your CR is not already in the CPARS system, the contracting officer will request the name and email address of the person that will be responsible for the CR role on your award.
+
+Once an evaluation is ready to be released the CR will receive an email alerting them the evaluation is ready for their review and comment. The email will indicate the time frame the CR has to respond to the evaluation; however, the CR may return the evaluation earlier than this date.
+
+TTS shall provide for review at a level above the contracting officer (i.e., contracting director) to consider any disagreement between TTS and the contractor regarding TTS’s evaluation of the contractor. Based on the review, the individual at a level above the contracting officer will issue the ultimate conclusion on the performance evaluation.
+Copies of the evaluations, contractor responses, and review comments, if any, will be retained as part of the contract file.
+
 
 
 
