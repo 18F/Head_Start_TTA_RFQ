@@ -151,17 +151,17 @@ The system is composed of three primary parts: a database, a backend API applica
 
 The backend API application should use technologies such as:
 
-_ A modern, open-source friendly language such as Ruby or Javascript, on the most recent version, or most recent LTS version, if applicable.
+* A modern, open-source friendly language such as Ruby or Javascript, on the most recent version, or most recent LTS version, if applicable.
 
-_ An open-source framework such as Rails or Express, on the most recent version or most recent LTS version, if applicable.
+* An open-source framework such as Rails or Express, on the most recent version or most recent LTS version, if applicable.
 
-_ The frontend web application should use technologies such as:
+* The frontend web application should use technologies such as:
 
-_ A modern, open-source friendly language such as Javascript or Typescript, on the most recent version, or most recent LTS version, if applicable.
+* A modern, open-source friendly language such as Javascript or Typescript, on the most recent version, or most recent LTS version, if applicable.
 
-_ An open-source framework such as React or Ember.js, on the most recent version or most recent LTS version, if applicable.
+* An open-source framework such as React or Ember.js, on the most recent version or most recent LTS version, if applicable.
 
-_ A modern 21st Century Integrated Digital Experience Act-compliant design system, such as [the US Web Design System.](https://designsystem.digital.gov/)
+* A modern 21st Century Integrated Digital Experience Act-compliant design system, such as [the US Web Design System.](https://designsystem.digital.gov/)
 
 ### 5.2	Personnel Skills and Knowledge
 
