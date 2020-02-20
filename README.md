@@ -9,4 +9,4 @@ Landing Place for all things vendors will need to know about the draft RFQ we're
 4. [Place of Performance and Contract Type](Draft_Request_for_Quotes.md#40-contract-place-of-performance-and-contract-type)
 5. [Operating Constraints (Non-functional Requirements)](Draft_Request_for_Quotes.md#50-operating-constraints-non-functional-requirements)
 6. [Administration](Draft_Request_for_Quotes.md#60-administration)
-MORE TO COME ABOUT EVAL FACTORS
+7. [Submittal Instructions and Evaluation](Draft_Request_for_Quotes.md#70-submittal-instructions-and-evaluation)
