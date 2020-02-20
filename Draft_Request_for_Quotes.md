@@ -1,6 +1,7 @@
 ## 1.0 Background and Purpose
 
 ### 1.1	Background
+
 Local Head Start programs prepare America’s most vulnerable young children, ages birth to 5, to succeed in school and in life. About 1,600 agencies across the country receive grant funding and oversight from the [Office of Head Start (OHS)](https://eclkc.ohs.acf.hhs.gov/about-us/article/about-office-head-start) to operate local Head Start programs, which enroll about 1 million children each year. OHS ensures that grantees meet [federal standards](https://eclkc.ohs.acf.hhs.gov/policy/45-cfr-chap-xiii) for operating safe and effective programs. 
 
 Head Start was launched as a federal pilot program in 1965 and has a powerful track record of innovation [and effectiveness](https://eclkc.ohs.acf.hhs.gov/story) in early childhood education. More than 37 million Americans have attended Head Start programs. 
@@ -46,6 +47,7 @@ Different systems require different credentials and have restricted access for d
 Across TTA Activity Reports, email TTA summaries and official correspondence, people may use inconsistent terms to describe issues they are working on. Different TTA contracts may also adapt federal forms and gather differently labeled information, making it harder to collapse information and identify trends.
 
 #### Data Usability
+
 TTA Activity Reports are rich in information but are not formatted to summarize meaningful information. Information is also contained in uploaded attachments that aren’t searchable.
 
 It is also difficult to organize and compare meaningful grant-level TTA data across grantees, or to track an individual grantee’s TTA history because grant numbers change when a grantee receives new funding. 
@@ -99,13 +101,12 @@ REMINDER TO PULL IN CAKE ILLUSTRATION
 
 An MVP focused on Regional Office Program Specialists (PS) is an opportunity to digitize the TTA request process. The current state of TTA data does not capture information in a single location with enough relevant details to efficiently support PS users in their roles.
 
-PS users will be able to initiate TTA Requests and track their status through completion which combines TTA Activity Summaries, Next Steps, and Task Completion. This system will allow PS users to view TTA over time, for specific grantees and groups of grantees, and across specific topic areas. In addition, the PS users will be able to track progress over time and may connect other dashboard/management systems via API access. For more information, see our [MVP slide deck.](need this from Robert)
+PS users will be able to initiate TTA Requests and track their status through completion which combines TTA Activity Summaries, Next Steps, and Task Completion. This system will allow PS users to view TTA over time, for specific grantees and groups of grantees, and across specific topic areas. In addition, the PS users will be able to track progress over time and may connect other dashboard/management systems via API access. For more information, see our [MVP slide deck](assets/ohsttamvp-deck.pdf).
 
-REMINDER TO PDF THE MVP SLIDE DECK
-
-REMINDER TO PULL IN IMAGE FROM DRAFT RFQ SHOWING SYSTEM INTERACTIONS
+![OHS TTA MVP map of envisioned system](assets/ohsttamvp-map.png)
 
 #### MVP Vision: Program Specialist
+
 As a Regional Office (federal) TTA staff member, I would like to have a clear understanding of all grantee TTA activity so that I can more effectively support grantee success.
 
 #### MVP Epics
@@ -117,6 +118,7 @@ As a Regional Office (federal) TTA staff member, I would like a new TTA deployme
 As a Regional Office (federal) TTA staff member, I would like to have a clear view of all TTA activities from request through completion so that I can know if activities are complete and meeting objectives.
 
 #### User Stories
+
 Individual user stories may be modified, added, retracted, or reprioritized by OHS at any time, and OHS expects that the user stories will be continuously refined during the development process. 
 
 ### 3.2 List of Deliverables with Quality Assurance Surveillance Plan (QASP)
@@ -136,6 +138,7 @@ The following chart sets forth the performance standards and quality levels the 
 The government will use the (QASP) to monitor the quality of the Contractor’s performance. This oversight will help the government ensure that contractor performance reaches required levels throughout the contract term. The QASP provides the government with a proactive way to avoid unacceptable or deficient performance and provides the basis for performance ratings in the Contractor Performance Assessment Reporting System (CPARS). The QASP may be updated by modification to the contract. The QASP provides the basis for performing and controlling the project’s activities in accordance with the contract.
 
 ## 4.0 Contract Place of Performance and Contract Type
+
 The Contractor may choose the location(s) from which to perform the required software development services. 
 
 The government intends to award a time and material (T&M) type contract. All rates shall be fully burdened and T&M rates are fixed at the time of award. The offeror must specify whether the fixed hourly rate for each labor category applies to labor performed by— (1) The offeror; (2) Subcontractors; and/or (3) Divisions, subsidiaries, or affiliates or the offeror under a common control.
@@ -145,22 +148,18 @@ The contractor shall understand that neither the funded ceiling on T&M CLINs, no
 ## 5.0 Operating Constraints (Non-functional Requirements)
 
 ### 5.1	Environment
-The System will be deployed to cloud.gov infrastructure provided by OHS. Deployments are automated via continuous integration/continuous deployment. Contractor is required to maintain deployment scripts and configurations as changes are required. OHS will provide the necessary cloud.gov configuration information to the Contractor.
+
+The System will be deployed to [cloud.gov](https://cloud.gov/) infrastructure provided by OHS. Deployments are automated via continuous integration/continuous deployment. Contractor is required to maintain deployment scripts and configurations as changes are required. OHS will provide the necessary cloud.gov configuration information to the Contractor.
 
 The system is composed of three primary parts: a database, a backend API application, and a frontend web application. All technology choices must work seamlessly with cloud.gov hosting. Data files are written using either JSON or YAML, depending on who is expected to edit them. (e.g., data files that OHS may edit directly are written in YAML).
 
 The backend API application should use technologies such as:
 
 * A modern, open-source friendly language such as Ruby or Javascript, on the most recent version, or most recent LTS version, if applicable.
-
 * An open-source framework such as Rails or Express, on the most recent version or most recent LTS version, if applicable.
-
 * The frontend web application should use technologies such as:
-
 * A modern, open-source friendly language such as Javascript or Typescript, on the most recent version, or most recent LTS version, if applicable.
-
 * An open-source framework such as React or Ember.js, on the most recent version or most recent LTS version, if applicable.
-
 * A modern 21st Century Integrated Digital Experience Act-compliant design system, such as [the US Web Design System.](https://designsystem.digital.gov/)
 
 ### 5.2	Personnel Skills and Knowledge
@@ -170,41 +169,27 @@ Key Personnel – The Contractor must designate a Facilitator, a Technical Lead,
 The **Facilitator** role may be filled by a scrum master, project manager, product manager, agile coach, or a similar type of role. The person in this role on the team will be expected to:
 
 * Be well versed in Agile practices/methodologies and continuously coach the team as needed (be familiar with agile techniques, such as user stories, continuous integration, etc.) 
-
 * Manage the scrum process, facilitate meetings and run sprint ceremonies (daily scrum, sprint planning, sprint demos, retrospectives, etc.)
-
 * Work with the product owner to ensure the team is on track for work. Track impediments or “blocks” and help the product manager remove them. 
-
 * Help the product owner to maintain the product backlog 
-
 * Work with the product owner to create useful and practical plans for development, and lead appropriate forecasting of the number of deliverables possible in an iteration 
-
 * Work with the product owner to ensure the overall health and emotional safety of the team
-
 * Assist the product owner and executive sponsor in managing the project scope and costs 
-
 * Ensure that the product owner receives honest, timely, and appropriate feedback from the vendor team
-
 * Assist in recruiting and scheduling user research sessions
 
 The **Technical Lead** role may be filled by a developer, developer team lead, or similar role. The person in this role will be expected to:
 
 * Be well versed in software development practices and methodologies and continuously coach the team as needed
-
 * Maintain a high-level understanding of the technical architecture of the application to help other developers onboard as needed
-
 * Work with the product owner to help them understand the technical tradeoffs during prioritization and decision making
-
 * Monitor code and test quality to ensure it satisfies the QASP
 
 The **Design Lead** role may be filled by a user experience designer, visual designer, content designer, or similar role. The person in this role will be expected to:
 
 * Be well-versed in design practices and methodologies and continuously educate/coach the team as needed
-
 * Maintain high quality, ongoing evaluative and generative research
-
 * Ensure smooth operation of the design activities on the project
-
 * Work with the product owner to set the research agenda and determine the team’s design needs
 
 ## 6.0 Administration
@@ -221,23 +206,22 @@ The government will notify the contractor if a change occurs to either the CO or
 
 ### 6.2 Authorities and Delegations
 
-#### 6.2.1 
+#### 6.2.1
+
 The TTS Office of Acquisition (OA)  is the only organization authorized to enter into or terminate this agreement, modify any term or condition of this agreement, waive any requirement of this agreement, or accept nonconforming work.
 
-#### 6.2.2 
+#### 6.2.2
+
 The Contracting Officer will designate a Contracting Officer's Representative (COR) at the time of award. The COR will be responsible for technical monitoring of the contractor's performance and deliverables. The COR will be appointed in writing, and a copy of the appointment will be furnished to the Contractor. Changes to this delegation will be made by written changes to the existing appointment or by issuance of a new appointment.
 
-#### 6.2.3 
+#### 6.2.3
+
 The COR is not authorized to perform, formally or informally, any of the following actions:
 
 * Promise, award, agree to award, or execute any agreement, modification, or notice of intent that changes or may change this contract;
-
 * Waive or agree to modification of the delivery schedule;
-
 * Make any final decision on any contract matters subject to the disputes Clause;
-
 * Terminate, for any reason, the Contractor's right to proceed;
-
 * Obligate in any way, the payment of money by the Government
 
 The Contractor shall comply with the written or oral direction of the Contracting Officer or authorized representative(s) acting within the scope and authority of the appointment memorandum. The Contractor need not proceed with direction that it considers to have been issued without proper authority. The Contractor shall notify the Contracting Officer in writing, with as much detail as possible, when the COR has taken an action or has issued direction (written or oral) that the Contractor considers to exceed the COR’s appointment, within 3 days of the occurrence. 
@@ -257,7 +241,8 @@ The Contractor shall provide copies of all correspondence to the Contracting Off
 Any action(s) taken by the Contractor, in response to any direction given by any person acting on behalf of the Government or any Government official other than the Contracting Officer or the COR acting within his or her appointment, shall be at the Contractor’s risk.
 
 ### 6.3 Contractor Administration 
-The contractor must provide the name of the individual responsible for centralized contract administration in support of all work performed under this order.  This individual, at a minimum, will serve as the point of contact for contractual issues, invoices, and the contractor representative for annual performance reviews (see section 6.5).
+
+The contractor must provide the name of the individual responsible for centralized contract administration in support of all work performed under this order. This individual, at a minimum, will serve as the point of contact for contractual issues, invoices, and the contractor representative for annual performance reviews (see section 6.5).
 
 The information, inclusive of the name of the point of contact, email, and phone number, shall be uploaded through the ITSS Collaboration tool.
 
@@ -308,11 +293,13 @@ In addition to the items below, the Contractor shall submit proper invoices as s
 All of this information, along with the Period of Performance covered by the invoice,  must be included on each invoice in addition to the requirements for a proper invoice specified in FAR 52.212-4 (g), the Prompt Payment clause, FAR 52.212-4(i)(2) and Payments under Time and Materials and Labor Hours Contracts, FAR 52.232-7.
 
 #### 6.6.3 Invoice Submission
+
 Contractors shall electronically transmit/submit invoices and supporting documentation for invoices through the GSA web-based procurement system, through the Central Invoice Service (CIS), the contractor shall submit invoices electronically by logging into the ASSIST portal (https://portal.fas.gsa.gov ), navigating to the appropriate order, and creating the invoice for that order. This is the only acceptable means for invoice submissions.
  
 No paper invoices shall be accepted.  For additional assistance, contact the ASSIST Helpdesk at 877-472-4877.
 
 #### 6.6.4 Limitation of Funds
+
 The Contractor shall notify the Contracting Officer in writing whenever it has reason to believe that the costs it expects to incur under this contract in the next 60 days, when added to all costs previously incurred, will exceed 75 percent of (1) the total amount so far allotted to the contract by the Government or, (2) if this is a cost-sharing contract, the amount then allotted to the contract by the Government plus the Contractor’s corresponding share. The notice shall state the estimated amount of additional funds required to continue performance for the period specified in the Schedule.
 
 Sixty days before the end of the period specified in the Schedule, the Contractor shall notify the Contracting Officer in writing of the estimated amount of additional funds, if any, required to continue timely performance under the contract or for any further period specified in the Schedule or otherwise agreed upon, and when the funds will be required.
@@ -396,6 +383,7 @@ If the references to source code samples provided do not include associated refe
 #### Phase 2 - Verbal Interviews
 
 ##### General Information 
+
 *Format.* After review of Phase 1 –  Technical Submissions, the government will invite all contractors with a rating of “Some Confidence” or “High Confidence” to Phase 2 - Verbal Interview. Each contractor will be scheduled for a 60-minute interview with the evaluation team so they can ask questions based on contractor’s technical submission. Contractors should also introduce their team members who will be part of the support team. Lastly, the evaluation team will ask questions in regards to their expertise relative to the project.
 
 *Location.* The interview sessions will be conducted by video chat, though audio may be substituted as needed. The government will coordinate and set up the virtual meeting space accordingly (by providing dial-in or links).
@@ -439,10 +427,13 @@ The government will evaluate the submitted quotes against the criteria set forth
 The government will award a task order resulting from this RFQ to the responsible contractor whose quote conforms to the RFQ that represents the best value to the government, price and the other criteria specified below. Contractors are advised that the non-price evaluation factors combined are significantly more important than price. As non-price ratings become closer, price will become more important. 
 
 #### Phase 1 –  Technical Submission
+
 Criteria 1:  Technical Approach
 Criteria 2:  Staffing Plan
 Criteria 3:  Similar Experience
+
 #### Phase 2 - Criteria 4: Verbal interview
+
 #### Phase 3 - Price Submission
 
 Contractors must meet all requirements in Phase 1 and will be assigned a confidence rating. After the initial Phase 1 confidence assignment, contractors with a ranking of “Some Confidence” or “High Confidence” will be invited for Phase 2 - Verbal Interview. 
@@ -458,18 +449,22 @@ The government also reserves the right to make no award.
 #### Evaluation:
 
 ##### Technical Approach
+
 In evaluating a contractor’s technical approach, the government will consider (a) the quality of the contractor’s plans to provide the open source, agile development services required, including user research and design, (b) the extent of the contractor’s understanding of the details of the project requirements, and (c) the extent to which the contractor has identified potential obstacles to efficient development, and has proposed realistic approaches to overcome those potential obstacles.
 
 ##### Staffing Plan
+
 In evaluating a contractor’s staffing plan, the government will consider (a) the skills and experience of the Key Personnel and other individuals that the contractor plans to use to provide the required services, (b) the mix of labor categories that will comprise the contractor’s proposed development team, and (c) the contractor’s proposed number of hours of services to be provided by each member of the contractor’s proposed development team.
 
 ##### Similar Experience
+
 In evaluating a contractor’s similar experience, the government will consider the extent to which the contractor has recently provided software development services for projects that are similar in size, scope, and complexity to the project described in this RFQ, and the quality of those services. In evaluating the quality of those services, the evaluation team will consider, among other things, the revision history for all files in the source code samples provided. The government will also consider the user research and design-related artifacts that were associated with the source code samples provided or submitted separately. In considering a contractor’s similar experience, the government may also consider information from any other source, including contractor’s prior customers and public websites.
 
 ##### Price
 In evaluating a contractor’s price, the government will consider the total of the contractor’s estimated costs for the development services, and travel expenses proposed, for three years (a base year period plus two one-year option periods). Contractors will use this Excel workbook to submit pricing information.
 
 ## Appendices:
+
 Appendix 1 - Contract Terms and Conditions
 Appendix 2 - Pricing Sheet Template
 
