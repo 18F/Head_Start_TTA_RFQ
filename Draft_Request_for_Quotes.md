@@ -97,7 +97,7 @@ The MVP and Epic Stories set forth below will be the starting point for the deve
 
 The MVP is a part, but not the full realization, of the product vision. If the Product Vision is the manifestation of a fully decorated, multi-layered cake, then the MVP is a single layer of the cake. It is a single layer of the cake, and only part of the larger vision.
 
-REMINDER TO PULL IN CAKE ILLUSTRATION
+![If the Product Vision is a multi-layered cake, the MVP is just one layer of the larger cake.](assets/ohsttamvp-cake.png)
 
 An MVP focused on Regional Office Program Specialists (PS) is an opportunity to digitize the TTA request process. The current state of TTA data does not capture information in a single location with enough relevant details to efficiently support PS users in their roles.
 
