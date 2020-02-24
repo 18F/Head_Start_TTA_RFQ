@@ -8,7 +8,7 @@ OHS is engaging 18F to help OHS procure a centralized system for relevant TTA da
 
 For more insights into the prototyping work 18F is doing as we help set the groundwork for a vendor to take on this work, see our [project repository](https://github.com/18F/Head-Start-TTA). For more information on why we prototype prior to procurement, [our Forest Service team wrote up the importance of discovery research](https://18f.gsa.gov/2017/06/22/why-discovery-research-matters-for-modular-procurement/) and we've also written up a blog about why it's [generally a good practice.](https://18f.gsa.gov/2018/01/30/getting-prepared-to-prototype/)
 
-(Work In Progress Draft RFQ Table of Contents)
+## Draft RFQ Table of Contents
 
 1. [Background and Purpose](Draft_Request_for_Quotes.md#10-background-and-purpose)
 2. [Scope](Draft_Request_for_Quotes.md#20-scope)
