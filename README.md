@@ -27,7 +27,7 @@ Our goal is to have a thoughtful software development process by which the vario
 ### How to respond
 
 The purpose of posting this draft of the RFQ is to solicit feedback from any interested parties, including vendors of software development services. Feedback should be submitted in the following ways:
-  1. Submit a response to this [Google form](ttps://forms.gle/k5cLj3hAgTaGuTPQ8) and 
+  1. Submit a response to this [Google form](https://forms.gle/k5cLj3hAgTaGuTPQ8) and 
   2. Changes proposed as [pull requests](https://github.com/18F/Head_Start_Draft_RFQ/pulls) or by [opening a new issue](https://github.com/18F/Head_Start_Draft_RFQ/issues). 
 
 Responses are due by 12pm ET on March 9, 2020.
