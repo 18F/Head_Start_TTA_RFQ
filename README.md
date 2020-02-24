@@ -40,7 +40,7 @@ The order will be for an initial period of one year, and OHS will have options t
 
 ### Budget
 
-OHS will pay up to $1.4 million for services during the first year, and up to $1.4 million during each of the two option years.
+OHS will pay up to $1.5 million for services during the first year, and up to $1.5 million during each of the two option years.
 
 ## Contributing
 
