@@ -157,7 +157,9 @@ The backend API application should use technologies such as:
 
 * A modern, open-source friendly language such as Ruby or Javascript, on the most recent version, or most recent LTS version, if applicable.
 * An open-source framework such as Rails or Express, on the most recent version or most recent LTS version, if applicable.
-* The frontend web application should use technologies such as:
+
+The frontend web application should use technologies such as:
+
 * A modern, open-source friendly language such as Javascript or Typescript, on the most recent version, or most recent LTS version, if applicable.
 * An open-source framework such as React or Ember.js, on the most recent version or most recent LTS version, if applicable.
 * A modern 21st Century Integrated Digital Experience Act-compliant design system, such as [the US Web Design System.](https://designsystem.digital.gov/)
