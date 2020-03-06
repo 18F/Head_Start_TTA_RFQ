@@ -127,7 +127,7 @@ The following chart sets forth the performance standards and quality levels the 
 
 | Deliverable | Performance Standard(s) | Acceptable Quality Level | Method of Assessment |
 | --- | --- | --- | --- |
-| Tested Code | Code delivered under the order must have substantial test code coverage. Version-controlled CMS GitHub repository of code that comprises product that will remain in the government domain. | Minimum of 90% test coverage of all code. All areas of code are meaningfully tested. | Combination of manual review and automated testing |
+| Tested Code | Code delivered under the order must have substantial test code coverage. Version-controlled OHS GitHub repository of code that comprises product that will remain in the government domain. | Minimum of 90% test coverage of all code. All areas of code are meaningfully tested. | Combination of manual review and automated testing |
 | Properly Styled Code | [Airbnb Style Guide](https://github.com/airbnb/javascript) and [prettier](https://prettier.io/) for Javascript. CSS and Sass conforms to Block-Element-Modifier [BEM](http://getbem.com/) | 0 linting errors and 0 warnings | Combination of manual review and automated testing with eslint |
 | Accessible | Web Content Accessibility Guidelines 2.1 AA (WCAG 2.1 AA) standards | 0 errors reported for WCAG 2.1 AA standards using an automated scanner and 0 errors reported in manual testing | Combined approach using automated and manual testing with tools equivalent to [Accessibility Insights](https://accessibilityinsights.io/) and/or the [DHS Trusted Tester process](https://www.dhs.gov/508-testing). |
 | Deployed | Code must successfully build and deploy into staging environment. | Successful build with a single command | Combination of manual review and automated testing |
@@ -149,7 +149,7 @@ The contractor shall understand that neither the funded ceiling on T&M CLINs, no
 
 ### 5.1	Environment
 
-The System will be deployed to [cloud.gov](https://cloud.gov/) infrastructure provided by OHS. Deployments are automated via continuous integration/continuous deployment. Contractor is required to maintain deployment scripts and configurations as changes are required. OHS will provide the necessary cloud.gov configuration information to the Contractor.
+The system will be deployed to [cloud.gov](https://cloud.gov/) infrastructure provided by OHS. Deployments are automated via continuous integration/continuous deployment. Contractor is required to maintain deployment scripts and configurations as changes are required. OHS will provide the necessary cloud.gov configuration information to the Contractor.
 
 The system is composed of three primary parts: a database, a backend API application, and a frontend web application. All technology choices must work seamlessly with cloud.gov hosting. Data files are written using either JSON or YAML, depending on who is expected to edit them. (e.g., data files that OHS may edit directly are written in YAML).
 
@@ -210,7 +210,7 @@ The government will notify the contractor if a change occurs to either the CO or
 
 #### 6.2.1
 
-The TTS Office of Acquisition (OA)  is the only organization authorized to enter into or terminate this agreement, modify any term or condition of this agreement, waive any requirement of this agreement, or accept nonconforming work.
+The TTS Office of Acquisition (OA) is the only organization authorized to enter into or terminate this agreement, modify any term or condition of this agreement, waive any requirement of this agreement, or accept nonconforming work.
 
 #### 6.2.2
 
@@ -412,7 +412,7 @@ The Contractor will be compensated at fully loaded hourly rates. The evaluation 
 
 In an effort to receive the highest quality solution at the lowest possible price, the government requires discounts on all materials and services offered by contractors for this requirement in order to be considered for award. Contractors are encouraged to offer discounts below schedule contract rates, whichever is applicable. When discounts are offered, quotations must clearly identify the contract rate, the discount rate, and the percentage discount for each item or labor rate being discounted.
 
-The contractor must provide a copy of their GSA Price Lists for all three (3) years for verification of pricing. If submitting a quote as a CTA, each member must submit their schedule pricing for each SIN they are eligible to perform under. If price discounts are not provided on the GSA price list, then the contractor will be deemed unacceptable.
+The Contractor must provide a copy of their GSA Price Lists for all three (3) years for verification of pricing. If submitting a quote as a CTA, each member must submit their schedule pricing for each SIN they are eligible to perform under. If price discounts are not provided on the GSA price list, then the contractor will be deemed unacceptable.
  
 For contractors that do not have out-year pricing, your task order pricing may be escalated at the same percentage of your GSA multiple award schedule (MAS) contract provided you submit a copy of a valid executed modification of your GSA MAS schedule to the CO.
 
