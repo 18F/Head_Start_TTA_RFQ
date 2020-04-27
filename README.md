@@ -10,12 +10,12 @@ Office of Head Start Training and Teachnical Assistance Data Platform
 
 # Request for Quote
 
-**From:** Brian Burns, Contracting Officer (CO), General Services Administration (GSA), Central Office, Office of Acquisitions
-**Issued for:** GSA, FAS, Technology Transformation Services (TTS), 18F
-**Subject:** Request for Quotation (RFQ)
-**Date:** April 15, 2020
-**Set-aside:** Total Small Business 
-**Contract vehicles:** GSA Schedule Schedule IT 70; SIN 132 51 (information technology professional services) 
+**From:** Brian Burns, Contracting Officer (CO), General Services Administration (GSA), Central Office, Office of Acquisitions<br>
+**Issued for:** GSA, FAS, Technology Transformation Services (TTS), 18F<br>
+**Subject:** Request for Quotation (RFQ)<br>
+**Date:** April 27, 2020<br>
+**Set-aside:** Total Small Business<br>
+**Contract vehicles:** GSA Schedule Schedule IT 70; SIN 132 51 (information technology professional services)
 
 All clauses, terms and conditions of the schedule holder’s contract apply / flow down to this solicitation and resultant task order contract. In the event of a conflict between the schedule contract and an order, the terms and conditions of the schedule contract prevail. 
 
@@ -23,8 +23,8 @@ All clauses, terms and conditions of the schedule holder’s contract apply / fl
 
 | Item | Date responses due | Format |
 | ------------- | ------------- | ------------- |
-| RFQ Questions | MONTH DD, 2020 at noon, Eastern Time | Google Form (see section 9.0 for details) |
-| Quote Submission | MONTH DD, 2020 at noon, Eastern Time | Google Form to include Google Doc (technical submission) and Google Sheet (price submission) as attachments (see section 9.0 for details) |
+| RFQ Questions | May 11, 2020 at noon, Eastern Time | [Google Form](https://docs.google.com/forms/d/1_YghG8CdNn4dGTgL20ShxT3hECz9BfwMm18HBPM5bxo/edit) (see section 9.0 for details) |
+| Quote Submission | May 26, 2020 at noon, Eastern Time | [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeRRNcNHNbOSEVfuwGTkLCtJYKAH_k2cUBWxX7kfWDfAapxnA/viewform?usp=sf_link) to include Google Doc (technical submission) and Google Sheet (price submission) as attachments (see section 9.0 for details) |
 
 ## Government Point of Contact
 
