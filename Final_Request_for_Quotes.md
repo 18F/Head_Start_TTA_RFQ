@@ -152,7 +152,7 @@ The following chart sets forth the performance standards and quality levels the 
 
 | **Deliverable 3** | **Accessible** |
 | --- | --- |
-| Performance Standard(s) | [Web Content Accessibility Guidelines 2.1 - Levels A and AA]https://www.w3.org/TR/WCAG21/) | 
+| Performance Standard(s) | [Web Content Accessibility Guidelines 2.1 - Levels A and AA](https://www.w3.org/TR/WCAG21/) | 
 | Acceptable Quality Level | 0 errors reported using an automated scanner and 0 errors reported in manual testing |
 | Method of Assessment | Combined approach using automated and manual testing with tools equivalent to [Accessibility Insights](https://accessibilityinsights.io/) and/or the [DHS Trusted Tester process](https://www.dhs.gov/508-testing). |
 | Due Date | Every sprint |
