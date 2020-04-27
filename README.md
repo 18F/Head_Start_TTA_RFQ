@@ -1,7 +1,7 @@
-**General Services Administration**
-Federal Acquisition Service
-Technology Transformation Services
-18F and Office of Acquisitions
+**General Services Administration**<br>
+Federal Acquisition Service<br>
+Technology Transformation Services<br>
+18F and Office of Acquisitions<br>
 1800 F St. NW | Washington, DC | 20405
 
 Assisted Acquisition on Behalf of the Office of Head Start (OHS), within the Administration for Children and Families, U.S. Department of Health and Human Services.
