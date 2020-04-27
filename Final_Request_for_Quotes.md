@@ -30,29 +30,29 @@ These information silos make it difficult for OHS TTA leaders to:
 * ensure that TTA is data-driven, responsive to grantee needs and effective; and
 * provide real-time oversight and quality assurance of the 12 regional TTA  contracts and 4 national TTA cooperative agreements.
 
-#### 1.3 Narrative and Anecdotal Information 
+#### 1.2.1 Narrative and Anecdotal Information 
 
 Regional TTA contractors must complete TTA Activity Reports, which contain abundant narrative data. Text-heavy narrative data can be helpful but it is hard to compare or track over time. People may also overlook the value of narrative data or choose other sources, such as anecdotal information, because trying to decipher a lot of text is overwhelming and frustrating. 
 
-#### 1.4 Disconnected Systems
+#### 1.2.2 Disconnected Systems
 
 TTA requests, reports and other data are housed in disparate systems that often weren’t built for managing comprehensive TTA tasks. Some are OHS-controlled, others are independent. Extracting and comparing data across these systems is difficult and time-consuming. There is a lack of consistency in solutions and systems at all levels (Central Office, Regional Offices, TTA contractors, states, and grantees).  
 
-#### 1.5 Data Access
+#### 1.2.3 Data Access
 
 Different systems require different credentials and have restricted access for different users, which don’t always reflect user needs. Existing data can be difficult to access. 
 
-#### 1.6 Data Inconsistency
+#### 1.2.4 Data Inconsistency
 
 Across TTA Activity Reports, email TTA summaries and official correspondence, people may use inconsistent terms to describe issues they are working on. Different TTA contracts may also adapt federal forms and gather differently labeled information, making it harder to collapse information and identify trends.
 
-#### 1.7 Data Usability
+#### 1.2.5 Data Usability
 
 TTA Activity Reports are rich in information but are not formatted to summarize meaningful information. Information is also contained in uploaded attachments that aren’t searchable.
 
 It is also difficult to organize and compare meaningful grant-level TTA data across grantees, or to track an individual grantee’s TTA history because grant numbers change when a grantee receives new funding. 
 
-#### 1.8 Incomplete View of TTA Activities
+#### 1.2.6 Incomplete View of TTA Activities
 
 While national TTA centers and regional TTA contracts offer many forms of TTA, grantees also purchase TTA services directly from many vendors. Grantees receive 50% of the federal TTA appropriation for this use, but their TTA purchases are not easily analyzable at the regional or national level for coordinated TTA planning. This creates a further blind spot in understanding grantee needs and trends, and in ensuring that national and regional TTA providers fully understand grantee needs. 
 
@@ -96,7 +96,7 @@ Vendors are expected to submit a proposal assuming a budget of $1.5M for the bas
 
 The MVP and Epic Stories set forth below will be the starting point for the development of software to be provided under this task order. These preliminary stories are provided only for illustrative purposes, and do not comprise the full scope or detail of the project. OHS expects that the contractor will work closely with the Product Owner to perform regular user research and usability testing and to develop and prioritize a full gamut of user stories as the project progresses.
 
-#### 3.2 TTA Data Product MVP
+#### 3.1.1 TTA Data Product MVP
 
 The MVP is a part, but not the full realization, of the product vision. If the Product Vision is the manifestation of a fully decorated, multi-layered cake, then the MVP is a single layer of the cake. It is a single layer of the cake, and only part of the larger vision.
 
@@ -108,11 +108,11 @@ PS users will be able to initiate TTA Requests and track their status through co
 
 ![OHS TTA MVP map of envisioned system](assets/ohsttamvp-map.png)
 
-#### 3.3 MVP Vision: Program Specialist
+#### 3.1.2 MVP Vision: Program Specialist
 
 As a Regional Office (federal) TTA staff member, I would like to have a clear understanding of all grantee TTA activity so that I can more effectively support grantee success.
 
-#### 3.4 MVP Epics
+#### 3.1.3 MVP Epics
 
 As a Regional Office (federal) TTA staff member, I would like to have a clear view of grantee TTA objectives and activities to make informed decisions for future TTA.
 
@@ -120,7 +120,7 @@ As a Regional Office (federal) TTA staff member, I would like a new TTA deployme
 
 As a Regional Office (federal) TTA staff member, I would like to have a clear view of all TTA activities from request through completion so that I can know if activities are complete and meeting objectives.
 
-#### User Stories
+#### 3.2 User Stories
 
 Individual user stories may be modified, added, retracted, or reprioritized by OHS at any time, and OHS expects that the user stories will be continuously refined during the development process. The following types of users for this system are expected to include, but not be limited to the following:
 
@@ -129,7 +129,7 @@ Individual user stories may be modified, added, retracted, or reprioritized by O
 * National TTA Centers (via cooperative agreements)
 * Head Start Grantees
 
-### 3.6 Quality Assurance Surveillance Plan (QASP)
+### 3.3 Quality Assurance Surveillance Plan (QASP)
 
 The government will use the Quality Assurance Surveillance Plan (QASP) to monitor the quality of the Contractor’s deliverables and performance. This oversight will help the government ensure that Contractor performance reaches required levels throughout the contract term. The QASP provides the government with a proactive way to avoid unacceptable or deficient performance and provides the basis for performance ratings in the  Performance Assessment Reporting System (CPARS). The QASP may be updated by modification to the contract. The QASP provides the basis for performing and controlling the project’s activities in accordance with the contract.
 
@@ -238,11 +238,11 @@ The Contractor must designate who will fill these three roles: Facilitator, Tech
 
 **The Design Lead** must have a full understanding of the research approach and design patterns to be used by the Contractor’s development team and will be responsible for ensuring that the Contractor’s development team follows that approach. This person should have a background as a user experience researcher or designer.
 
-### 6.2 Key Personnel Substitution 
+### 6.1 Key Personnel Substitution 
 
 Key Personnel substitutions must be submitted to the contracting officer (CO) in writing, and will only be justified in the event of sudden illness, death, change of employment, or termination of employment for cause.  Requests for a substitution of Key Personnel must include a detailed explanation of the justifying circumstances, and a complete résumé for the proposed substitute or addition, including skills, experience, training, and security clearance level (if applicable). The CO’s failure to approve a proposed substitution will not constitute grounds for non-performance by the Contractor, or form a valid basis for any claim for money or any equitable adjustment.
 
-### 6.3 Skills  
+### 6.2 Skills  
 
 The Contractor must provide a cross functional team that is experienced in working in an agile process. They must be comfortable delivering value iteratively and be able to pivot quickly based on a continuous learning environment. The Contractor will use prototypes and working software as tools to test hypotheses and validate assumptions. The Contractor should deliver working software early in the post-award period and iteratively improve the software through ongoing development sprints.
 
