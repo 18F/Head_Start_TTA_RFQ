@@ -58,8 +58,10 @@ For more insights into the prototyping work 18F is doing as we help set the grou
 3. [Objectives](Final_Request_for_Quotes.md#30-objectives)
 4. [Place of Performance and Contract Type](Final_Request_for_Quotes.md#40-contract-place-of-performance-and-contract-type)
 5. [Operating Constraints (Non-functional Requirements)](Final_Request_for_Quotes.md#50-operating-constraints-non-functional-requirements)
-6. [Administration](Final_Request_for_Quotes.md#60-administration)
-7. [Submittal Instructions and Evaluation](Final_Request_for_Quotes.md#70-submittal-instructions-and-evaluation)
+6. [Personnel Skills and Knowledge](Final_Request_for_Quotes.md#60personnel-skills-and-knowledge)
+7. [Administration](Final_Request_for_Quotes.md#60personnel-skills-and-knowledge)
+8. [Invoicing](Final_Request_for_Quotes.md#80-invoicing)
+9. [Submittal Instructions and Evaluation](Final_Request_for_Quotes.md#80-invoicing)
 
 ## Contributing
 

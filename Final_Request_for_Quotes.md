@@ -315,7 +315,7 @@ The information, inclusive of the name of the point of contact, email, and phone
 
 The government's team (CO, COR, and Product Owner) will hold a kickoff meeting (or post-award conference) with the selected Contractor within ten calendar days of the acquisition award. This kickoff will include the selected Contractor’s team and other relevant government staff to review and clarify the project’s objectives, expectations from the government, and address any questions the selected Contractor may have.
 
-### 6.5 Contractor Performance
+### 7.5 Contractor Performance
 
 In accordance with FAR 8.406-7 and FAR 42.1502(c), past performance evaluations shall be prepared at least annually, at the time the work under the order is completed (to include options), and when an order, individually, exceeds the simplified acquisition threshold. These evaluations are generally for the entity, division, or unit that performed the contract or order.  
 
@@ -609,9 +609,9 @@ The government will not evaluate travel costs. A lump sum will be included as a 
 
 ## Appendices:
 
-Appendix 1 - [Contract Terms and Conditions](https://docs.google.com/document/d/1oaz_jeU3pE-SqJkS7mWwQ0xmPWtg5AJjL78bY_ALQRI/edit)
-Appendix 2 - [RFQ Response Template](https://docs.google.com/document/d/1BXwbgzECp99D09xYb5FIq_wX86T-26XMfY51U9fqPoU/edit)
-Appendix 3 - [Pricing Spreadsheet Template](https://docs.google.com/spreadsheets/d/1gsh6EebDe8v0h2T1uQCllzcc334QHzAvJa3lE585wC4/edit#gid=0)
-Appendix 4 - [Performance Work Statement (PWS) Template](https://docs.google.com/document/d/1PJHjt5roURXHSvNvROZInsto8dihBAqcJ5lA0b_Yb5Y/edit)
-Appendix 5 - [Conflict of Interest Statement](https://docs.google.com/document/d/1o3R6oOkL5SYNETsTsbLblBaRe4OKf3du50DM5RGv82A/edit#)
+* Appendix 1 - [Contract Terms and Conditions](https://docs.google.com/document/d/1oaz_jeU3pE-SqJkS7mWwQ0xmPWtg5AJjL78bY_ALQRI/edit)
+* Appendix 2 - [RFQ Response Template](https://docs.google.com/document/d/1BXwbgzECp99D09xYb5FIq_wX86T-26XMfY51U9fqPoU/edit)
+* Appendix 3 - [Pricing Spreadsheet Template](https://docs.google.com/spreadsheets/d/1gsh6EebDe8v0h2T1uQCllzcc334QHzAvJa3lE585wC4/edit#gid=0)
+* Appendix 4 - [Performance Work Statement (PWS) Template](https://docs.google.com/document/d/1PJHjt5roURXHSvNvROZInsto8dihBAqcJ5lA0b_Yb5Y/edit)
+* Appendix 5 - [Conflict of Interest Statement](https://docs.google.com/document/d/1o3R6oOkL5SYNETsTsbLblBaRe4OKf3du50DM5RGv82A/edit#)
 
