@@ -603,15 +603,17 @@ As stated above, the Oral interview does not and will not constitute discussions
 
 #### 9.6.5 Price
 
-In evaluating a Contractor’s price, the government will consider the Contractor’s total estimated costs for the development services for three years (a base year period plus two one-year option periods). Contractors will use this [spreadsheet to submit pricing information](https://docs.google.com/spreadsheets/d/1gsh6EebDe8v0h2T1uQCllzcc334QHzAvJa3lE585wC4/edit#gid=0).
+In evaluating a Contractor’s price, the government will consider the Contractor’s total estimated costs for the development services for three years (a base year period plus two one-year option periods). Contractors will use this [spreadsheet to submit pricing information](appendices/Appendix-3-OHS-RFQ-Pricing-Sheet.xlsx).
 
 The government will not evaluate travel costs. A lump sum will be included as a separate contract line item number (CLIN) and will be used to reimburse actual travel expenses as needed.
 
 ## Appendices:
 
-* Appendix 1 - [Contract Terms and Conditions](https://docs.google.com/document/d/1oaz_jeU3pE-SqJkS7mWwQ0xmPWtg5AJjL78bY_ALQRI/edit)
-* Appendix 2 - [RFQ Response Template](https://docs.google.com/document/d/1BXwbgzECp99D09xYb5FIq_wX86T-26XMfY51U9fqPoU/edit)
-* Appendix 3 - [Pricing Spreadsheet Template](https://docs.google.com/spreadsheets/d/1gsh6EebDe8v0h2T1uQCllzcc334QHzAvJa3lE585wC4/edit#gid=0)
-* Appendix 4 - [Performance Work Statement (PWS) Template](https://docs.google.com/document/d/1PJHjt5roURXHSvNvROZInsto8dihBAqcJ5lA0b_Yb5Y/edit)
-* Appendix 5 - [Conflict of Interest Statement](https://docs.google.com/document/d/1o3R6oOkL5SYNETsTsbLblBaRe4OKf3du50DM5RGv82A/edit#)
+* Appendix 1 - [Terms and Conditions](appendices/Appendix-1-Terms-and-Conditions.docx)
+* Appendix 2 - [RFQ Response Template](appendices/Appendix-2-OHS-RFQ-Response-Template.docx)
+* Appendix 3 - [Pricing Spreadsheet Template](appendices/Appendix-3-OHS-RFQ-Pricing-Sheet.xlsx)
+* Appendix 4 - [Performance Work Statement (PWS) Template](appendices/Appendix-4-OHS-PWS-Template.docx)
+* Appendix 5 - [Conflict of Interest Statement](appendices/Appendix-5-Conflict-of-Interest.docx)
+* Appendix 6 - [FAR 52.204-24 Provision](appendices/Appendix-6-FAR-52.204-24-Provision.docx)
+* Appendix 7 - [Contractor Team Arrangement (CTA) Agreement Elements](appendices/Appendix-7-CTA.docx)
 
