@@ -28,10 +28,10 @@ All clauses, terms and conditions of the schedule holder’s contract apply / fl
 
 ## Government Point of Contact
 
-Contracting Officer: Brian Burns
-Contracting Office: _General Services Administration, Federal Acquisition Service, Technology Transformation Services, Office of Acquisition_
-Email: brian.burns@gsa.gov
-Correspondence: _Any emails related to this RFQ shall use the email subject heading “RFQ12345 - [Contractor’s Name]”_
+Contracting Officer: Brian Burns<br>
+Contracting Office: _General Services Administration, Federal Acquisition Service, Technology Transformation Services, Office of Acquisition_<br>
+Email: brian.burns@gsa.gov<br>
+Correspondence: _Any emails related to this RFQ shall use the email subject heading “RFQ12345 - [Contractor’s Name]”_<br>
 
 ## Important Dates, Times, and Posting Information
 
