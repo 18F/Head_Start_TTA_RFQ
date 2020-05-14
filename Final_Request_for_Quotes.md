@@ -447,7 +447,7 @@ Contractors proposing Key Personnel who are not currently employed by the Contra
 
 #### 9.2.4 Factor 3 - Similar Experience
 
-The Contractor must demonstrate similar experience by sharing one or more source code samples that provide the government evaluation team with the full revision history for all files. The Contractor may submit links to Git repositories or equivalent version-controlled repositories.
+The Contractor must demonstrate similar experience by sharing up to five (5) source code samples that provide the government evaluation team with the full revision history for all files. The Contractor may submit links to Git repositories or equivalent version-controlled repositories.
  
 The repositories may be public or private. If a Contractor submits a link to a private source code repository, the government will provide the Contractor with one or more user identities by email, and the Contractor will be expected to provide the identified user(s) with access to the private source code repository within two business days.
 
