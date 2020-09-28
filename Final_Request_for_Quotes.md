@@ -178,7 +178,7 @@ The following chart sets forth the performance standards and quality levels the 
 | Method of Assessment | Clean tests from a static testing SaaS (such as Snyk or npm audit) and from OWASP ZAP, along with documentation explaining any false positives |
 | Due Date | Every sprint |
 
-| **Deliverable 6** | **User research** |
+| **Deliverable 7** | **User research** |
 | --- | --- |
 | Performance Standard(s) | Usability testing and other user research methods must be conducted at regular intervals throughout the development process (not just at the beginning or end). | 
 | Acceptable Quality Level | Research plans and artifacts from usability testing and/or other research methods with end users are available at the end of every applicable sprint, in accordance with the Contractor’s research plan. |
